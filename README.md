@@ -1,10 +1,10 @@
-# mobile_app
+# Ujian Tengah Semester 
 
-A new Flutter project.
+Aplikasi Mobile : Weekly Planner 
 
-## Getting Started
+## Build with 
 
-This project is a starting point for a Flutter application.
+Flutter 
 
 A few resources to get you started if this is your first Flutter project:
 
